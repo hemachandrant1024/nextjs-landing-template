@@ -1,21 +1,16 @@
 {
   "hero": {
-    "title": "Focus Better. Ship Faster.",
-    "subtitle": "AI that removes distractions and boosts productivity.",
-    "cta": "Start Free Trial"
+    "title": "AI Generated Title",
+    "subtitle": "Generated subtitle",
+    "cta": "Get Started"
   },
   "features": [
-    "Smart task prioritization",
-    "AI-powered focus sessions",
-    "Real-time productivity analytics"
+    "Fast",
+    "Reliable",
+    "Automated"
   ],
   "pricing": {
-    "enabled": true,
-    "plans": [
-      { "name": "Free", "price": "₹0" },
-      { "name": "Basic", "price": "₹499/mo"},
-      { "name": "Pro", "price": "₹999/mo" }
-    ]
+    "enabled": false
   },
   "contact": {
     "enabled": true,
